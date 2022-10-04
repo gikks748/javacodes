@@ -4,7 +4,7 @@ public class sumodig {
 
 	public static void main(String[] args) {
 		
-		int n=1111;
+		int n=1112;
 		int sum=0;
 			
 		while (n>0) {
