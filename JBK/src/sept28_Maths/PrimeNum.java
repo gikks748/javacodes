@@ -5,7 +5,7 @@ public class PrimeNum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 51;
-		int total =0;
+		int total = 0;
 		
 		for (int i=1; i<=a; a++) {
 			if(a % i == 0) 
@@ -13,7 +13,7 @@ public class PrimeNum {
 		}
 	
 		if (total == 2 ) {
-			System.out.println(i + "is Prime");
+			System.out.println(a + "is Prime");
 		}
 		else {
 			System.out.println( a + "is Not Prime");
