@@ -4,7 +4,7 @@ public class Fibbonachi {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num = 101;
+		int num = 111;
 		int a = 0, b = 1;
 		int c;
 		System.out.print(a + ",");
