@@ -9,6 +9,10 @@ public class TestCustomer {
 		c1.details();
 		System.out.println("----------------------------------------");
 		c2.details();
+		System.out.println("----------------------------------------");
+		Emp e1 = new Emp(123456, "GK", 29,111,15000);
+		System.out.println("this is employee details ------------------");
+		e1.details();
 	}
 
 }
